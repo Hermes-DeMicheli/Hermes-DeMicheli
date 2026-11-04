@@ -37,27 +37,21 @@ Outside work I spend time on Python and FastAPI, and on a Home Assistant setup t
 
 ![ABAP](https://img.shields.io/badge/ABAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 ![Fiori](https://img.shields.io/badge/Fiori-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
-![RAP](https://img.shields.io/badge/RAP%20%2F%20ABAP%20Cloud-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+![RAP](https://img.shields.io/badge/RAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 ![S/4HANA](https://img.shields.io/badge/S%2F4HANA-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 ![CDS](https://img.shields.io/badge/CDS-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 ![OData](https://img.shields.io/badge/OData-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
-![BTP](https://img.shields.io/badge/BTP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
-![Adobe Forms](https://img.shields.io/badge/Adobe%20Forms-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 **Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Home Assistant](https://img.shields.io/badge/Home%20Assistant-18BCF2?style=for-the-badge&logo=homeassistant&logoColor=white)
 

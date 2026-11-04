@@ -9,10 +9,10 @@
   </defs>
   <rect width="900" height="260" rx="12" fill="url(#bg)"/>
   <rect x="0.5" y="0.5" width="899" height="259" rx="12" fill="none" stroke="#30363d"/>
-  <rect x="48" y="58" width="4" height="96" rx="2" fill="#36bcf7"/>
-  <text x="72" y="100" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="40" font-weight="700" fill="#e6edf3">Hermes De Micheli</text>
-  <text x="72" y="136" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" fill="#8b949e">SAP Full-Stack Developer</text>
-  <text x="72" y="170" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#8b949e">ABAP, Fiori, RAP, S/4HANA, Python, Home Automation</text>
+  <rect x="56" y="54" width="5" height="120" rx="2.5" fill="#36bcf7"/>
+  <text x="80" y="98" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="44" font-weight="700" fill="#e6edf3">Hermes De Micheli</text>
+  <text x="80" y="136" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="21" font-weight="600" fill="#36bcf7">SAP Full-Stack Developer</text>
+  <text x="80" y="164" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#8b949e">ABAP, Fiori, RAP, S/4HANA, Python, Home Automation</text>
   <g font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="600">
     <rect x="72" y="196" width="72" height="30" rx="15" fill="#0f2a3d" stroke="#36bcf7"/>
     <text x="108" y="216" text-anchor="middle" fill="#36bcf7">ABAP</text>
@@ -23,10 +23,11 @@
     <rect x="306" y="196" width="72" height="30" rx="15" fill="#0f2a3d" stroke="#36bcf7"/>
     <text x="342" y="216" text-anchor="middle" fill="#36bcf7">Python</text>
   </g>
-  <g transform="translate(640 58)" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#8b949e">
-    <text x="0" y="16" fill="#e6edf3" font-weight="600">Currently</text>
-    <text x="0" y="44">SAP consultant at Keytech S.r.l.</text>
-    <text x="0" y="68">Fully remote, based in Naples</text>
-    <text x="0" y="92">Lecturer, University of Catania</text>
+  <line x1="640" y1="58" x2="640" y2="202" stroke="#30363d"/>
+  <g transform="translate(672 74)" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#8b949e">
+    <text x="0" y="0" fill="#e6edf3" font-weight="600">Currently</text>
+    <text x="0" y="34">SAP consultant, Keytech S.r.l.</text>
+    <text x="0" y="60">Fully remote, Naples</text>
+    <text x="0" y="86">Lecturer, University of Catania</text>
   </g>
 </svg>

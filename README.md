@@ -2,8 +2,6 @@
 
 <img src="https://raw.githubusercontent.com/Hermes-DeMicheli/Hermes-DeMicheli/main/assets/banner.svg" alt="Hermes De Micheli, SAP Full-Stack Developer. ABAP, Fiori, RAP, S/4HANA, Python, Home Automation" width="900" />
 
-<p>SAP Full-Stack Developer (ABAP, Fiori, RAP) at Keytech S.r.l. | Naples, Italy | Hybrid</p>
-
 <a href="#about">About</a> &nbsp;|&nbsp;
 <a href="#tech-stack">Tech Stack</a> &nbsp;|&nbsp;
 <a href="#experience">Experience</a> &nbsp;|&nbsp;

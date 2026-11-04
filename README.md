@@ -4,7 +4,7 @@
 
 <h3>Hermes De Micheli</h3>
 
-<p>SAP Full-Stack Developer (ABAP, Fiori, RAP) at Keytech S.r.l. | Naples, Italy | Remote</p>
+<p>SAP Full-Stack Developer (ABAP, Fiori, RAP) at Keytech S.r.l. | Naples, Italy | Hybrid, 3 days smart working</p>
 
 <a href="#about">About</a> &nbsp;|&nbsp;
 <a href="#tech-stack">Tech Stack</a> &nbsp;|&nbsp;
@@ -104,6 +104,6 @@ Also: RF and RFC, Smartforms, SFTP exchange, technical documentation, Microsoft 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/hermes-de-micheli-b7029b21b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:hermes.demicheli@gmail.com?subject=SAP%20ABAP%20%2F%20Fiori%20role%20-%20contact%20from%20GitHub"><img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:hermes.demicheli@gmail.com?subject=Hello%20Hermes%2C%20I%20saw%20your%20profile%20on%20GitHub"><img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>

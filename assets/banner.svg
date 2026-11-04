@@ -14,8 +14,8 @@
   <text x="80" y="136" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="21" font-weight="600" fill="#36bcf7">SAP Full-Stack Developer</text>
   <text x="80" y="164" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#8b949e">ABAP, Fiori, RAP, S/4HANA, Python, Home Automation</text>
   <g font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="600">
-    <rect x="72" y="196" width="72" height="30" rx="15" fill="#0f2a3d" stroke="#36bcf7"/>
-    <text x="108" y="216" text-anchor="middle" fill="#36bcf7">ABAP</text>
+    <rect x="80" y="196" width="72" height="30" rx="15" fill="#0f2a3d" stroke="#36bcf7"/>
+    <text x="116" y="216" text-anchor="middle" fill="#36bcf7">ABAP</text>
     <rect x="154" y="196" width="72" height="30" rx="15" fill="#0f2a3d" stroke="#36bcf7"/>
     <text x="190" y="216" text-anchor="middle" fill="#36bcf7">Fiori</text>
     <rect x="236" y="196" width="60" height="30" rx="15" fill="#0f2a3d" stroke="#36bcf7"/>

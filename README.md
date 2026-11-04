@@ -4,7 +4,7 @@
 
 <h3>Hermes De Micheli</h3>
 
-<p>SAP Consultant at Keytech S.r.l. | Naples, Italy | Remote</p>
+<p>SAP Full-Stack Developer (ABAP, Fiori, RAP) at Keytech S.r.l. | Naples, Italy | Remote</p>
 
 <a href="#about">About</a> &nbsp;|&nbsp;
 <a href="#tech-stack">Tech Stack</a> &nbsp;|&nbsp;
@@ -41,6 +41,7 @@ Outside work I build with Python and FastAPI, and I run a Home Assistant setup o
 ![S/4HANA](https://img.shields.io/badge/S%2F4HANA-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 ![CDS](https://img.shields.io/badge/CDS-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 ![OData](https://img.shields.io/badge/OData-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+![BTP](https://img.shields.io/badge/BTP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 
 **Languages**
 
@@ -48,12 +49,17 @@ Outside work I build with Python and FastAPI, and I run a Home Assistant setup o
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
 
 **Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Home Assistant](https://img.shields.io/badge/Home%20Assistant-18BCF2?style=for-the-badge&logo=homeassistant&logoColor=white)
+
+Also: RF and RFC, Smartforms, SFTP exchange, technical documentation, Microsoft Windows Server
 
 </div>
 

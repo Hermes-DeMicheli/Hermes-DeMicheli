@@ -6,7 +6,6 @@
 
 <a href="#about">About</a> &nbsp;|&nbsp;
 <a href="#tech-stack">Tech Stack</a> &nbsp;|&nbsp;
-<a href="#featured-projects">Projects</a> &nbsp;|&nbsp;
 <a href="#experience">Experience</a> &nbsp;|&nbsp;
 <a href="#certifications">Certifications</a> &nbsp;|&nbsp;
 <a href="#contact">Contact</a>
@@ -18,11 +17,11 @@
 <a id="about"></a>
 ## About
 
-Since June 2022 I have been building and maintaining SAP S/4HANA systems at Keytech, across most modules. Day to day that means Fiori apps on CDS views and OData, Adobe Forms, Smartforms, reports, enhancements, user exits and AMS tickets for client systems.
+I have worked on SAP S/4HANA at Keytech since June 2022, across most modules. Most of my days go to Fiori apps built on CDS views and OData, Adobe Forms, Smartforms, reports, enhancements, user exits, and AMS tickets for client systems.
 
-The part I enjoy most is untangling old code. I rewrote the MV45AFZZ user exit from procedural ABAP into a class with methods, and I like it when a messy report ends up readable enough that the next person can change it without fear. I also write the technical documentation for the projects I deliver, because someone has to explain them after go-live. In 2024 I taught an ABAP course, and in 2026 I gave a lecture at the University of Catania on the ABAP Dictionary and debugging.
+What I like most is taking old code apart. I rewrote the MV45AFZZ user exit from procedural ABAP into a class with methods, so the next developer can change it without reading the whole thing first. I also write the technical documentation for the projects I deliver. In 2024 I taught an ABAP course, and in 2026 I lectured at the University of Catania on the ABAP Dictionary and debugging.
 
-Outside work I build with Python and FastAPI, and I run a Home Assistant setup on an Android phone. The hardware budget is small, so every service has to earn its place.
+Outside work I build with Python and FastAPI, and I run Home Assistant on an Android phone. The hardware budget is small, so every service has to justify itself.
 
 ---
 
@@ -57,7 +56,12 @@ Outside work I build with Python and FastAPI, and I run a Home Assistant setup o
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Home Assistant](https://img.shields.io/badge/Home%20Assistant-18BCF2?style=for-the-badge&logo=homeassistant&logoColor=white)
 
-Also: RF and RFC, Smartforms, SFTP exchange, technical documentation, Microsoft Windows Server
+**Also**
+
+![RFC](https://img.shields.io/badge/RFC-0FAAFF?style=flat-square&logo=sap&logoColor=white)
+![Smartforms](https://img.shields.io/badge/Smartforms-0FAAFF?style=flat-square&logo=sap&logoColor=white)
+![SFTP](https://img.shields.io/badge/SFTP-0FAAFF?style=flat-square)
+![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D4?style=flat-square&logo=windows&logoColor=white)
 
 </div>
 
@@ -66,9 +70,7 @@ Also: RF and RFC, Smartforms, SFTP exchange, technical documentation, Microsoft 
 <a id="featured-projects"></a>
 ## Public Projects
 
-| Project | Description | Tech |
-|---|---|---|
-| [sap-orchestrator](https://github.com/Hermes-DeMicheli/sap-orchestrator) | Orchestration framework for multi-system SAP landscapes. | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
+- **[sap-orchestrator](https://github.com/Hermes-DeMicheli/sap-orchestrator)**: an orchestration framework for multi-system SAP landscapes. Python.
 
 ---
 
@@ -82,15 +84,24 @@ Also: RF and RFC, Smartforms, SFTP exchange, technical documentation, Microsoft 
 - Treasury reports and SFTP file exchange
 - Fiori and Adobe Forms development for client projects
 - Technical documentation for delivered projects
-- Taught an ABAP course (2024) and gave a lecture at the University of Catania (2026)
+- Taught an ABAP course (2024) and lectured at the University of Catania (2026)
 
 ---
 
 <a id="certifications"></a>
 ## Certifications
 
-- SAP Certified Associate, Back-End Developer, ABAP Cloud (2024)
-- Anthropic courses on Claude and Claude Code (2026)
+| Certification | Issuer | Date |
+|---|---|---|
+| SAP Certified Associate, Back-End Developer, ABAP Cloud | SAP | Nov 2024 |
+| Building with the Claude API | Anthropic | Aug 2026 |
+| AI Fluency Framework and Foundations | Anthropic | Aug 2026 |
+| Claude 101 | Anthropic | Aug 2026 |
+| Claude Code 101 | Anthropic | Aug 2026 |
+| Claude Platform 101 | Anthropic | Aug 2026 |
+| Model Context Protocol | Anthropic | Aug 2026 |
+| Claude Code in Action | Anthropic | Aug 2026 |
+| Claude Cowork | Anthropic | Aug 2026 |
 
 **Languages:** Italian (native), English (B2)
 

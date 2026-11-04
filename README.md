@@ -20,18 +20,11 @@
 <a id="about"></a>
 ## About
 
-I have been working on SAP S/4HANA at Keytech since June 2022, across most modules. Day to day that means Fiori apps built on CDS views and OData, Adobe Forms, Smartforms, reports, enhancements and user exits, plus AMS tickets for client systems.
+Since June 2022 I have been building and maintaining SAP S/4HANA systems at Keytech, across most modules. Day to day that means Fiori apps on CDS views and OData, Adobe Forms, Smartforms, reports, enhancements, user exits and AMS tickets for client systems.
 
-I rewrote the MV45AFZZ user exit from procedural ABAP into a class with methods, and I write the technical documentation for the projects I deliver. I taught an ABAP course in 2024 and gave a lecture at the University of Catania in 2026.
+The part I enjoy most is untangling old code. I rewrote the MV45AFZZ user exit from procedural ABAP into a class with methods, and I like it when a messy report ends up readable enough that the next person can change it without fear. I also write the technical documentation for the projects I deliver, because someone has to explain them after go-live. In 2024 I taught an ABAP course, and in 2026 I gave a lecture at the University of Catania on the ABAP Dictionary and debugging.
 
-**Currently**
-- Fiori and ABAP development on S/4HANA
-- AMS support and enhancements for client systems
-
-**Focus**
-- Object-oriented ABAP and cleaning up legacy code
-- Python and FastAPI
-- Home automation with Home Assistant on Android
+Outside work I spend time on Python and FastAPI, and on a Home Assistant setup that runs on an old Android phone. It is a budget project and it keeps me honest about what really needs to run all the time.
 
 ---
 

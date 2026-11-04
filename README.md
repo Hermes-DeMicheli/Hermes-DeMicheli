@@ -24,7 +24,7 @@ Since June 2022 I have been building and maintaining SAP S/4HANA systems at Keyt
 
 The part I enjoy most is untangling old code. I rewrote the MV45AFZZ user exit from procedural ABAP into a class with methods, and I like it when a messy report ends up readable enough that the next person can change it without fear. I also write the technical documentation for the projects I deliver, because someone has to explain them after go-live. In 2024 I taught an ABAP course, and in 2026 I gave a lecture at the University of Catania on the ABAP Dictionary and debugging.
 
-Outside work I spend time on Python and FastAPI, and on a Home Assistant setup that runs on an old Android phone. It is a budget project and it keeps me honest about what really needs to run all the time.
+Outside work I build with Python and FastAPI, and I run a Home Assistant setup on an Android phone. The hardware budget is small, so every service has to earn its place.
 
 ---
 

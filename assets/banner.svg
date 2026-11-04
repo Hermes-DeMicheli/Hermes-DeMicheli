@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="260" viewBox="0 0 900 260" role="img" aria-labelledby="t d">
+  <title id="t">Hermes De Micheli, SAP Full-Stack Developer</title>
+  <desc id="d">SAP Full-Stack Developer working with ABAP, Fiori, RAP and Python. Based in Naples, Italy, working remotely.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="1" stop-color="#161b22"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="260" rx="12" fill="url(#bg)"/>
+  <rect x="0.5" y="0.5" width="899" height="259" rx="12" fill="none" stroke="#30363d"/>
+  <rect x="48" y="58" width="4" height="96" rx="2" fill="#36bcf7"/>
+  <text x="72" y="100" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="40" font-weight="700" fill="#e6edf3">Hermes De Micheli</text>
+  <text x="72" y="136" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" fill="#8b949e">SAP Full-Stack Developer</text>
+  <text x="72" y="170" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#8b949e">ABAP, Fiori, RAP, S/4HANA, Python, Home Automation</text>
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="600">
+    <rect x="72" y="196" width="72" height="30" rx="15" fill="#0f2a3d" stroke="#36bcf7"/>
+    <text x="108" y="216" text-anchor="middle" fill="#36bcf7">ABAP</text>
+    <rect x="154" y="196" width="72" height="30" rx="15" fill="#0f2a3d" stroke="#36bcf7"/>
+    <text x="190" y="216" text-anchor="middle" fill="#36bcf7">Fiori</text>
+    <rect x="236" y="196" width="60" height="30" rx="15" fill="#0f2a3d" stroke="#36bcf7"/>
+    <text x="266" y="216" text-anchor="middle" fill="#36bcf7">RAP</text>
+    <rect x="306" y="196" width="72" height="30" rx="15" fill="#0f2a3d" stroke="#36bcf7"/>
+    <text x="342" y="216" text-anchor="middle" fill="#36bcf7">Python</text>
+  </g>
+  <g transform="translate(640 58)" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#8b949e">
+    <text x="0" y="16" fill="#e6edf3" font-weight="600">Currently</text>
+    <text x="0" y="44">SAP consultant at Keytech S.r.l.</text>
+    <text x="0" y="68">Fully remote, based in Naples</text>
+    <text x="0" y="92">Lecturer, University of Catania</text>
+  </g>
+</svg>

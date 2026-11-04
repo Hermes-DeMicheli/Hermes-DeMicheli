@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=SAP+Full-Stack+Developer;ABAP+%7C+Fiori+%7C+RAP+%7C+Python+%7C+Home+Automation" alt="SAP Full-Stack Developer, ABAP, Fiori, RAP, Python, Home Automation" width="900" />
+<img src="./assets/banner.svg" alt="Hermes De Micheli, SAP Full-Stack Developer. ABAP, Fiori, RAP, S/4HANA, Python, Home Automation" width="900" />
 
 <h3>Hermes De Micheli</h3>
 
@@ -104,6 +104,6 @@ Also: RF and RFC, Smartforms, SFTP exchange, technical documentation, Microsoft 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/hermes-de-micheli-b7029b21b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:hermes.demicheli@gmail.com?subject=Opportunity%20via%20GitHub%20profile"><img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:hermes.demicheli@gmail.com?subject=SAP%20ABAP%20%2F%20Fiori%20role%20-%20contact%20from%20GitHub"><img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
